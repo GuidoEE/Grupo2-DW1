@@ -72,6 +72,4 @@ El sistema de gestión de pasajeros para BOA permite una administración eficien
 Fuentes consultadas.
 
 ## Anexos
-Capturas de pantalla, código relevante y fragmentos clave.![WhatsApp Image 2025-01-25 at 5 52 46 PM](https://github.com/user-attachments/assets/a37c599a-b411-41f1-839e-da1a1ffc99e9)
-
-
+Capturas de pantalla, código relevante y fragmentos clave.
