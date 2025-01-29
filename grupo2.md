@@ -55,7 +55,7 @@ Asegúrate de tener las siguientes herramientas instaladas:
 ### Instalación de Librerías
 Para instalar las librerías necesarias, ejecuta el siguiente comando en tu terminal:
 
-```bash
+
 dotnet add package Microsoft.AspNetCore.Components.WebAssembly
 dotnet add package Supabase
 📚 Bibliografía
