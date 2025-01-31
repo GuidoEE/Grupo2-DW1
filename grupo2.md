@@ -1,9 +1,9 @@
-Sistema de Gestión de Pasajeros para BOA
-Nombre: 
-alexis santivañez parraga
-Josue Andres Oliva Suarez
-fernando serrano rojas
-Guido Espindola Evangelista
+# Sistema de Gestión de Pasajeros para BOA
+# Nombre: 
+## alexis santivañez parraga
+## Josue Andres Oliva Suarez
+## fernando serrano rojas
+## Guido Espindola Evangelista
 
 # Universidad: Universidad Privada Domingo Savio
 
