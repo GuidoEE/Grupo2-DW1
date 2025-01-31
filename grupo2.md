@@ -58,8 +58,8 @@ Para instalar las librerías necesarias, ejecuta el siguiente comando en tu term
 
 dotnet add package Microsoft.AspNetCore.Components.WebAssembly
 dotnet add package Supabase
-📚 Bibliografía
-📁 Anexos
+### 📚 Bibliografía
+### 📁 Anexos
 ![WhatsApp Image 2025-01-28 at 9 45 41 PM](https://github.com/user-attachments/assets/03a24632-3391-46ce-9543-f4d30f1de501)
 ![WhatsApp Image 2025-01-28 at 9 45 25 PM](https://github.com/user-attachments/assets/c9c5af5a-8442-4598-8c15-0817abb2071e)
 ![WhatsApp Image 2025-01-28 at 9 45 05 PM](https://github.com/user-attachments/assets/0d1d9bcb-e2aa-4034-8a99-9bb83c75d4ce)
